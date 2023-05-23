@@ -1,0 +1,33 @@
+@import './variables.scss';
+
+.chat {
+  height: 100%;
+
+  &__title {
+    font-size: 32px;
+    max-width: 800px;
+  }
+}
+
+.actions {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 20px;
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 14px;
+}
+
+.textarea {
+  width: 100%;
+  background-color: $gray-bg;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  font-family: 'Nunito', 'sans-serif';
+  resize: none;
+}

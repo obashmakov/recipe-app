@@ -1,0 +1,16 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Pasta alla Norma",
+      "ingridients": ["400g di pasta De Cecco integrale", "1 lattina di polpa di pomodoro Mutti", "1 melanzana", "1 spicchio d'aglio", "Olio extravergine di oliva", "Sale e pepe", "Grana padano Ferrari grattugiato"],
+      "instructions": ["Tagliare la melanzana a cubetti e farla saltare in padella con olio e aglio.", "Aggiungere la polpa di pomodoro e cuocere per 10 minuti.", "Cuocere la pasta in abbondante acqua salata.", "Scolare la pasta al dente e condirla con il sugo di pomodoro e melanzane.", "Servire con grana padano grattugiato."]
+    },
+    {
+      "id": 2,
+      "title": "Filetto di tonno",
+      "ingridients": ["4 filetti di tonno Moro", "100g di olive Neri denocciolate", "1 spicchio d'aglio", "Olio extravergine di oliva", "Sale e pepe", "Succo di limone", "Rucola"],
+      "instructions": ["Tritare le olive e l'aglio e mescolarli con olio, sale, pepe e succo di limone.", "Cuocere i filetti di tonno in padella con olio per 2-3 minuti per lato.", "Servire il tonno con la salsa di olive e l'insalata di rucola."]
+    }
+  ]
+}
